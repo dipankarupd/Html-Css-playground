@@ -1,0 +1,27 @@
+p {
+    margin: 0px;
+    font-family: Arial;
+    color: gray;
+}
+
+.email {
+    margin-bottom: 8px;
+}
+.em {
+    margin-top: 5px;
+    width: 200px;
+    border: 2px;
+    border-color: black;
+    padding: 4px;
+}
+
+.sign-up {
+    background-color: rgb(4, 143, 203);
+    color: white;
+    margin-top: 10px;
+    border: none;
+    padding: 12px;
+    border-radius: 24px;
+    width: 225px;
+    font-size: 18px;
+}
