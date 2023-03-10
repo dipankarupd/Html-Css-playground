@@ -1,0 +1,30 @@
+input {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200,200);
+}
+.first-name, .last-name {
+    margin-right: 5px;
+    width: 180px;
+    padding: 10px;
+    border-radius: 14px;
+    display: inline-block;
+}
+.email {
+    padding: 10px;
+    border-radius: 14px;
+    width: 390px;
+    margin-top: 12px;
+    display: block;
+}
+.sign-up {
+    padding: 10px;
+    border-color: white;
+    border-style: none;
+    border-radius: 14px;
+    width: 390px;
+    margin-top: 12px;
+    display: block;
+    color: white; 
+    background-color: rgba(9, 126, 194, 0.592);
+}

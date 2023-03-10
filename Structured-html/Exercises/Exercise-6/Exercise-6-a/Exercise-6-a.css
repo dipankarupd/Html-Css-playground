@@ -1,0 +1,9 @@
+.description {
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+button {
+    display: inline-block;
+}
