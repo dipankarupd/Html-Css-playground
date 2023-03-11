@@ -1,0 +1,36 @@
+.people {
+    width: 120px;
+    display: inline-block;
+    padding: 8px;
+    display: inline-block;
+    vertical-align: top;
+}
+img {
+    width: 85px;
+    height: 110px;
+    margin-bottom: 0px;
+    object-fit: contain;
+}
+.name {
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+.mutuality {
+    margin-top: 4px;
+    margin-bottom: 0px;
+    font-size: 10px;
+    color: #606060;
+}
+.add {
+    margin-top: 6px;
+    color: white;
+    border-radius: 2px;
+    padding: 5px;
+    border: none;
+    font-weight: bold;
+    width: 95px;
+    background-color: #0062ffe2;
+}
