@@ -1,0 +1,31 @@
+.images {
+    display: inline-block;
+    margin-right: 7px;
+}
+
+.description {
+    display: inline-block;
+    vertical-align: top;
+   
+}
+.row {
+    width: 600px;
+    margin-bottom: 10px;
+}
+.title {
+    width: 260px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+    
+}
+.author, .time {
+    font-size: 14px;
+    columns: #606060;
+    margin-top: 5px;
+}
+
+p{
+    margin: 0px;
+    font-family: Arial;
+}
