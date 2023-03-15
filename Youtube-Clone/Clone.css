@@ -94,19 +94,35 @@
     position: fixed;
     left: 0;
     bottom: 0;
-    top: 62px;
+    top: 60px;
     background-color: white;
-    width: 60px;
+    width: 75px;
 }
-
+.side-bar-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+}
+.sidebar-icon {
+    width: 24px;
+    object-fit: cover;
+}
+.icon-text {
+    font-size: 10px;
+}
 /* Bottom part- video part */
 .video-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 15px;
     row-gap: 10px;
-    margin-top: 60px;
+    margin-top: 40px;
     margin-left: 75px;
+    padding-top: 40px;
+    padding-left: 8px;
 }
 .detail-container{
     display: grid;
